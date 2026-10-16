@@ -1,9 +1,8 @@
 ### Hi, I'm Pedram 👋
 
 Data scientist focused on **quantitative finance** and **machine learning**.
-MSc Data Science & Analytics (Cardiff University) · BSc Computer Engineering · MBA Marketing.
-Published author of a Python programming book.
-
+   MSc Data Science & Analytics (Cardiff University) · BSc Computer Engineering.
+   Former technical writer and published author of a Python programming book.
 **What I build:** research systems that are hard to fool — point-in-time data,
 pre-registered hypotheses, honest out-of-sample tests — and ML models evaluated
 the way they would actually be used.
